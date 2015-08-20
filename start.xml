@@ -11,5 +11,6 @@
                        <BUTTON text="front" onClick="cam.type='font'"/>
                        <BUTTON text="back" onClick="cam.type='back'"/>
         </WINDOW>
+        </WINDOW>
     </UILAYOUT>
 </MOML>
