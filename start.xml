@@ -9,10 +9,10 @@
            <CAMERA id= "cam" layout="10,60,300,300" />
            <WINDOW layout="10,380,300,auto" align="linear">
                <STYLEBUTTON themeId="style" text="open" onClick="cam.open"/>
-                   <STYLEBUTTON themeId="style"text="close" onClick="cam.close"/>
-                       <STYLEBUTTON themeId="style"text="front" onClick="cam.type='front'"/>
-                       <STYLEBUTTON themeId="style"text="back" onClick="cam.type='back'"/>
-                       <STYLEBUTTON themeId="style"text="Tack" onClick="cam.takePicture"/>
+                   <STYLEBUTTON themeId="style" text="close" onClick="cam.close"/>
+                       <STYLEBUTTON themeId="style" text="front" onClick="cam.type='front'"/>
+                       <STYLEBUTTON themeId="style" text="back" onClick="cam.type='back'"/>
+                       <STYLEBUTTON themeId="style" text="Tack" onClick="cam.takePicture"/>
         </WINDOW>
         </WINDOW>
     </UILAYOUT>
